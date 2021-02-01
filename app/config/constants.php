@@ -11,7 +11,7 @@ define('URLROOT', 'http://' . $_SERVER['HTTP_HOST'] . '/' . PROJECT_NAME);
 
 //db params
 define('DB_HOST', 'host');
-define('Db_USER', 'user');
+define('DB_USER', 'user');
 define('DB_PASS', 'pass');
 define('DB_NAME', 'dbname');
 
